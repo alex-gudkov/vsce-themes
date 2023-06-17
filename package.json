@@ -20,6 +20,16 @@
         "label": "Default Dark Plus",
         "uiTheme": "vs-dark",
         "path": "./themes/default-dark-plus.json"
+      },
+      {
+        "label": "Temp 1",
+        "uiTheme": "vs-dark",
+        "path": "./themes/temp1.json"
+      },
+      {
+        "label": "Temp 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/temp2.json"
       }
     ]
   }
