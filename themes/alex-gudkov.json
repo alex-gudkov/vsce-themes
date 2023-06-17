@@ -1,0 +1,37 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Alex Gudkov",
+  "include": "./default-dark-plus.json",
+  "colors": {
+    "activityBar.background": "#010101",
+    "editor.background": "#010101",
+    "editorGroupHeader.tabsBackground": "#010101",
+    "list.hoverBackground": "#646464",
+    "list.inactiveSelectionBackground": "#2c2c2c",
+    "scrollbarSlider.activeBackground": "#646464",
+    "scrollbarSlider.background": "#2c2c2c",
+    "scrollbarSlider.hoverBackground": "#646464",
+    "sideBar.background": "#010101",
+    "sideBar.border": "#252526",
+    "tab.activeBackground": "#2c2c2c",
+    "tab.inactiveBackground": "#010101",
+    "titleBar.activeBackground": "#010101",
+    "titleBar.inactiveBackground": "#403582",
+    "editorCursor.foreground": "#ffffff",
+    "editorCursor.background": "#010101",
+    "terminalCursor.foreground": "#ffffff",
+    "terminalCursor.background": "#010101"
+  },
+  "tokenColors": [
+    {
+      "name": "Comments",
+      "scope": [
+        "comment",
+        "string.quoted.docstring"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }
+  ]
+}
