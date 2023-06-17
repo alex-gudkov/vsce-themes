@@ -2,7 +2,7 @@
   "name": "alex-gudkov-themes",
   "displayName": "Alex Gudkov Themes",
   "description": "Alex Gudkov themes for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "*"
   },
@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Theme",
+        "label": "Default Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/theme.json"
+        "path": "./themes/default-dark.json"
+      },
+      {
+        "label": "Default Dark Plus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/default-dark-plus.json"
       }
     ]
   }
