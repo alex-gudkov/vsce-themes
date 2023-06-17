@@ -1,6 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "Default Dark",
+	"type": "dark",
   "colors": {
     "checkbox.border": "#6B6B6B",
     "editor.background": "#1E1E1E",
