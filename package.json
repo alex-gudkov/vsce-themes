@@ -2,7 +2,7 @@
   "name": "alex-gudkov-themes",
   "displayName": "Alex Gudkov Themes",
   "description": "Alex Gudkov themes for VS Code",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "*"
   },
