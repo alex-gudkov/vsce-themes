@@ -32,6 +32,11 @@
         "id": "default-seti",
         "label": "Default Seti",
         "path": "./icon-themes/default-seti.json"
+      },
+      {
+        "id": "alex-gudkov",
+        "label": "Alex Gudkov",
+        "path": "./icon-themes/alex-gudkov.json"
       }
     ]
   }
