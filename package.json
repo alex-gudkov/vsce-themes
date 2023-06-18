@@ -2,7 +2,7 @@
   "name": "alex-gudkov-themes",
   "displayName": "Alex Gudkov Themes",
   "description": "Alex Gudkov themes for VS Code",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "*"
   },
@@ -29,9 +29,9 @@
     ],
     "iconThemes": [
       {
-        "id": "alex-gudkov",
-        "label": "Alex Gudkov",
-        "path": "./icon-themes/alex-gudkov.json"
+        "id": "default-seti",
+        "label": "Default Seti",
+        "path": "./icon-themes/default-seti.json"
       }
     ]
   }
