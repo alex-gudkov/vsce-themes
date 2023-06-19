@@ -5,6 +5,7 @@
   "colors": {
     "activityBar.background": "#010101",
     "editor.background": "#010101",
+    "editorWhitespace.foreground": "#e3e4e235",
     "editorGroupHeader.tabsBackground": "#010101",
     "list.hoverBackground": "#646464",
     "list.inactiveSelectionBackground": "#2c2c2c",
@@ -33,5 +34,7 @@
         "fontStyle": "italic"
       }
     }
-  ]
+  ],
+  "semanticHighlighting": true,
+  "semanticTokenColors": {}
 }

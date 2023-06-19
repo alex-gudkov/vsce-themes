@@ -1521,25 +1521,13 @@
       "fontCharacter": "\\E0A8",
       "fontColor": "#6d8086"
     },
-    "_node_js": {
-      "fontCharacter": "\\E101",
-      "fontColor": "#8bc34a"
-    },
     "_ts_def": {
       "fontCharacter": "\\E104",
       "fontColor": "#0288d1"
     },
     "_js_map": {
       "fontCharacter": "\\E105",
-      "fontColor": "#ffca28"
-    },
-    "_jest": {
-      "fontCharacter": "\\E106",
-      "fontColor": "#f4511e"
-    },
-    "_nest_js": {
-      "fontCharacter": "\\E107",
-      "fontColor": "#ea2845"
+      "fontColor": "#cbcb41"
     },
     "_test_js": {
       "fontCharacter": "\\E108",
@@ -1556,10 +1544,6 @@
     "_prettier": {
       "fontCharacter": "\\E10A",
       "fontColor": "#f6914d"
-    },
-    "_prettier_1": {
-      "fontCharacter": "\\E10A",
-      "fontColor": "#4d5a5e"
     }
   },
   "file": "_default",
@@ -1880,13 +1864,7 @@
     "todo.md": "_todo",
     "npm-debug.log": "_npm_1",
     "package.json": "_npm_1",
-    "package-lock.json": "_npm_1",
-    "jest.json": "_jest",
-    "jest-unit.json": "_jest",
-    "jest-integration.json": "_jest",
-    "jest-e2e.json": "_jest",
-    "jest-all.json": "_jest",
-    "nest-cli.json": "_nest_js"
+    "package-lock.json": "_npm_1"
   },
   "languageIds": {
     "bat": "_windows",

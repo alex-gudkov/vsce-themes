@@ -2,6 +2,7 @@
   "$schema": "vscode://schemas/color-theme",
   "name": "Dark Plus",
   "include": "./default-dark.json",
+  "colors": {},
   "tokenColors": [
     {
       "name": "Function declarations",
@@ -194,6 +195,7 @@
       }
     }
   ],
+  "semanticHighlighting": true,
   "semanticTokenColors": {
     "newOperator": "#C586C0",
     "stringLiteral": "#ce9178",
