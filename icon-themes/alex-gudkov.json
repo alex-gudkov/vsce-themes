@@ -751,27 +751,27 @@
       "fontColor": "#519aba"
     },
     "_javascript_light": {
-      "fontCharacter": "\\E051",
+      "fontCharacter": "\\E102",
       "fontColor": "#b7b73b"
     },
     "_javascript": {
-      "fontCharacter": "\\E051",
+      "fontCharacter": "\\E102",
       "fontColor": "#cbcb41"
     },
     "_javascript_1_light": {
-      "fontCharacter": "\\E051",
+      "fontCharacter": "\\E102",
       "fontColor": "#cc6d2e"
     },
     "_javascript_1": {
-      "fontCharacter": "\\E051",
+      "fontCharacter": "\\E102",
       "fontColor": "#e37933"
     },
     "_javascript_2_light": {
-      "fontCharacter": "\\E051",
+      "fontCharacter": "\\E102",
       "fontColor": "#498ba7"
     },
     "_javascript_2": {
-      "fontCharacter": "\\E051",
+      "fontCharacter": "\\E102",
       "fontColor": "#519aba"
     },
     "_jenkins_light": {
@@ -1143,19 +1143,19 @@
       "fontColor": "#519aba"
     },
     "_react_light": {
-      "fontCharacter": "\\E07D",
-      "fontColor": "#498ba7"
+      "fontCharacter": "\\E109",
+      "fontColor": "#b7b73b"
     },
     "_react": {
-      "fontCharacter": "\\E07D",
-      "fontColor": "#519aba"
+      "fontCharacter": "\\E109",
+      "fontColor": "#cbcb41"
     },
     "_react_1_light": {
-      "fontCharacter": "\\E07D",
+      "fontCharacter": "\\E109",
       "fontColor": "#cc6d2e"
     },
     "_react_1": {
-      "fontCharacter": "\\E07D",
+      "fontCharacter": "\\E109",
       "fontColor": "#e37933"
     },
     "_reasonml_light": {
@@ -1378,11 +1378,11 @@
       "fontCharacter": "\\E096"
     },
     "_tsconfig_light": {
-      "fontCharacter": "\\E097",
+      "fontCharacter": "\\E055",
       "fontColor": "#498ba7"
     },
     "_tsconfig": {
-      "fontCharacter": "\\E097",
+      "fontCharacter": "\\E055",
       "fontColor": "#519aba"
     },
     "_twig_light": {
@@ -1394,19 +1394,19 @@
       "fontColor": "#8dc149"
     },
     "_typescript_light": {
-      "fontCharacter": "\\E099",
+      "fontCharacter": "\\E103",
       "fontColor": "#498ba7"
     },
     "_typescript": {
-      "fontCharacter": "\\E099",
+      "fontCharacter": "\\E103",
       "fontColor": "#519aba"
     },
     "_typescript_1_light": {
-      "fontCharacter": "\\E099",
+      "fontCharacter": "\\E103",
       "fontColor": "#cc6d2e"
     },
     "_typescript_1": {
-      "fontCharacter": "\\E099",
+      "fontCharacter": "\\E103",
       "fontColor": "#e37933"
     },
     "_vala_light": {
@@ -1540,6 +1540,34 @@
     "_node_js": {
       "fontCharacter": "\\E101",
       "fontColor": "#8bc34a"
+    },
+    "_ts_def": {
+      "fontCharacter": "\\E104",
+      "fontColor": "#519aba"
+    },
+    "_js_map": {
+      "fontCharacter": "\\E105",
+      "fontColor": "#ffca28"
+    },
+    "_jest": {
+      "fontCharacter": "\\E106",
+      "fontColor": "#f4511e"
+    },
+    "_nest_js": {
+      "fontCharacter": "\\E107",
+      "fontColor": "#ea2845"
+    },
+    "_test_js": {
+      "fontCharacter": "\\E108",
+      "fontColor": "#cbcb41"
+    },
+    "_test_ts": {
+      "fontCharacter": "\\E108",
+      "fontColor": "#519aba"
+    },
+    "_react_ts": {
+      "fontCharacter": "\\E109",
+      "fontColor": "#519aba"
     }
   },
   "file": "_default",
@@ -1618,9 +1646,6 @@
     "jade": "_jade",
     "class": "_java_1",
     "classpath": "_java",
-    "js.map": "_javascript",
-    "spec.js": "_javascript_1",
-    "test.js": "_javascript_1",
     "es": "_javascript",
     "es5": "_javascript",
     "es7": "_javascript",
@@ -1661,11 +1686,7 @@
     "pp": "_puppet",
     "epp": "_puppet",
     "purs": "_purescript",
-    "spec.jsx": "_react_1",
-    "test.jsx": "_react_1",
     "cjsx": "_react",
-    "spec.tsx": "_react_1",
-    "test.tsx": "_react_1",
     "re": "_reasonml",
     "res": "_rescript",
     "resi": "_rescript_1",
@@ -1693,8 +1714,6 @@
     "ins": "_tex_3",
     "toml": "_config",
     "twig": "_twig",
-    "spec.ts": "_typescript_1",
-    "test.ts": "_typescript_1",
     "vala": "_vala",
     "vapi": "_vala",
     "component": "_html_3",
@@ -1775,7 +1794,19 @@
     "cer": "_lock",
     "crt": "_lock",
     "pem": "_lock",
-    "ds_store": "_ignored"
+    "ds_store": "_ignored",
+    "js.map": "_js_map",
+    "d.ts": "_ts_def",
+    "test.js": "_test_js",
+    "spec.js": "_test_js",
+    "integration-spec.js": "_test_js",
+    "e2e-spec.js": "_test_js",
+    "spec.jsx": "_test_js",
+    "test.ts": "_test_ts",
+    "spec.ts": "_test_ts",
+    "integration-spec.ts": "_test_ts",
+    "e2e-spec.ts": "_test_ts",
+    "spec.tsx": "_test_ts"
   },
   "fileNames": {
     "mix": "_hex",
@@ -1794,7 +1825,6 @@
     "version.txt": "_clock",
     "version": "_clock",
     "mvnw": "_maven",
-    "tsconfig.json": "_tsconfig",
     "swagger.json": "_json_1",
     "swagger.yml": "_json_1",
     "swagger.yaml": "_json_1",
@@ -1864,7 +1894,15 @@
     "todo.md": "_todo",
     "npm-debug.log": "_npm_ignored",
     "package.json": "_node_js",
-    "package-lock.json": "_node_js"
+    "package-lock.json": "_node_js",
+    "tsconfig.json": "_tsconfig",
+    "tsconfig.build.json": "_tsconfig",
+    "jest.json": "_jest",
+    "jest-unit.json": "_jest",
+    "jest-integration.json": "_jest",
+    "jest-e2e.json": "_jest",
+    "jest-all.json": "_jest",
+    "nest-cli.json": "_nest_js"
   },
   "languageIds": {
     "bat": "_windows",
@@ -1914,7 +1952,7 @@
     "sql": "_db",
     "swift": "_swift",
     "typescript": "_typescript",
-    "typescriptreact": "_typescript",
+    "typescriptreact": "_react_ts",
     "xml": "_xml",
     "dockercompose": "_docker_3",
     "yaml": "_yml",
