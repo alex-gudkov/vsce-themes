@@ -319,43 +319,43 @@
       "fontColor": "#519aba"
     },
     "_default_light": {
-      "fontCharacter": "\\E023",
+      "fontCharacter": "\\E10F",
       "fontColor": "#bfc2c1"
     },
     "_default": {
-      "fontCharacter": "\\E023",
+      "fontCharacter": "\\E10F",
       "fontColor": "#d4d7d6"
     },
     "_docker_light": {
-      "fontCharacter": "\\E025",
+      "fontCharacter": "\\E113",
       "fontColor": "#498ba7"
     },
     "_docker": {
-      "fontCharacter": "\\E025",
+      "fontCharacter": "\\E113",
       "fontColor": "#519aba"
     },
     "_docker_1_light": {
-      "fontCharacter": "\\E025",
+      "fontCharacter": "\\E113",
       "fontColor": "#455155"
     },
     "_docker_1": {
-      "fontCharacter": "\\E025",
+      "fontCharacter": "\\E113",
       "fontColor": "#4d5a5e"
     },
     "_docker_2_light": {
-      "fontCharacter": "\\E025",
+      "fontCharacter": "\\E113",
       "fontColor": "#7fae42"
     },
     "_docker_2": {
-      "fontCharacter": "\\E025",
+      "fontCharacter": "\\E113",
       "fontColor": "#8dc149"
     },
     "_docker_3_light": {
-      "fontCharacter": "\\E025",
+      "fontCharacter": "\\E113",
       "fontColor": "#dd4b78"
     },
     "_docker_3": {
-      "fontCharacter": "\\E025",
+      "fontCharacter": "\\E113",
       "fontColor": "#f55385"
     },
     "_ejs_light": {
@@ -931,7 +931,7 @@
       "fontColor": "#498ba7"
     },
     "_markdown": {
-      "fontCharacter": "\\E060",
+      "fontCharacter": "\\E10B",
       "fontColor": "#519aba"
     },
     "_maven_light": {
@@ -975,27 +975,27 @@
       "fontColor": "#519aba"
     },
     "_npm_light": {
-      "fontCharacter": "\\E067",
+      "fontCharacter": "\\E10C",
       "fontColor": "#3b4b52"
     },
     "_npm": {
-      "fontCharacter": "\\E067",
+      "fontCharacter": "\\E10C",
       "fontColor": "#41535b"
     },
     "_npm_1_light": {
-      "fontCharacter": "\\E067",
+      "fontCharacter": "\\E10C",
       "fontColor": "#b8383d"
     },
     "_npm_1": {
-      "fontCharacter": "\\E067",
-      "fontColor": "#cc3e44"
+      "fontCharacter": "\\E10C",
+      "fontColor": "#cb3838"
     },
     "_npm_ignored_light": {
-      "fontCharacter": "\\E068",
+      "fontCharacter": "\\E10C",
       "fontColor": "#3b4b52"
     },
     "_npm_ignored": {
-      "fontCharacter": "\\E068",
+      "fontCharacter": "\\E10C",
       "fontColor": "#41535b"
     },
     "_nunjucks_light": {
@@ -1270,22 +1270,6 @@
       "fontCharacter": "\\E08C",
       "fontColor": "#8dc149"
     },
-    "_stylelint_light": {
-      "fontCharacter": "\\E08D",
-      "fontColor": "#bfc2c1"
-    },
-    "_stylelint": {
-      "fontCharacter": "\\E08D",
-      "fontColor": "#d4d7d6"
-    },
-    "_stylelint_1_light": {
-      "fontCharacter": "\\E08D",
-      "fontColor": "#455155"
-    },
-    "_stylelint_1": {
-      "fontCharacter": "\\E08D",
-      "fontColor": "#4d5a5e"
-    },
     "_stylus_light": {
       "fontCharacter": "\\E08E",
       "fontColor": "#7fae42"
@@ -1498,11 +1482,11 @@
       "fontColor": "#e37933"
     },
     "_yarn_light": {
-      "fontCharacter": "\\E0A5",
+      "fontCharacter": "\\E10D",
       "fontColor": "#498ba7"
     },
     "_yarn": {
-      "fontCharacter": "\\E0A5",
+      "fontCharacter": "\\E10D",
       "fontColor": "#519aba"
     },
     "_yml_light": {
@@ -1543,7 +1527,7 @@
     },
     "_ts_def": {
       "fontCharacter": "\\E104",
-      "fontColor": "#519aba"
+      "fontColor": "#0288d1"
     },
     "_js_map": {
       "fontCharacter": "\\E105",
@@ -1568,6 +1552,14 @@
     "_react_ts": {
       "fontCharacter": "\\E109",
       "fontColor": "#519aba"
+    },
+    "_prettier": {
+      "fontCharacter": "\\E10A",
+      "fontColor": "#f6914d"
+    },
+    "_prettier_1": {
+      "fontCharacter": "\\E10A",
+      "fontColor": "#4d5a5e"
     }
   },
   "file": "_default",
@@ -1669,7 +1661,7 @@
     "nunj": "_nunjucks",
     "njs": "_nunjucks",
     "nj": "_nunjucks",
-    "npm-debug.log": "_npm",
+    "npm-debug.log": "_npm_1",
     "npmignore": "_npm_1",
     "npmrc": "_npm_1",
     "ml": "_ocaml",
@@ -1764,7 +1756,7 @@
     "babelrc.cjs": "_babel",
     "bazelrc": "_bazel_1",
     "bowerrc": "_bower",
-    "dockerignore": "_docker_1",
+    "dockerignore": "_docker",
     "codeclimate.yml": "_code-climate",
     "eslintrc": "_eslint",
     "eslintrc.js": "_eslint",
@@ -1772,22 +1764,20 @@
     "eslintrc.yaml": "_eslint",
     "eslintrc.yml": "_eslint",
     "eslintrc.json": "_eslint",
-    "eslintignore": "_eslint_1",
+    "eslintignore": "_eslint",
     "firebaserc": "_firebase",
     "gitlab-ci.yml": "_gitlab",
     "jshintrc": "_javascript_2",
     "jscsrc": "_javascript_2",
-    "stylelintrc": "_stylelint",
-    "stylelintrc.json": "_stylelint",
-    "stylelintrc.yaml": "_stylelint",
-    "stylelintrc.yml": "_stylelint",
-    "stylelintrc.js": "_stylelint",
-    "stylelintignore": "_stylelint_1",
     "direnv": "_config",
     "env": "_config",
+    "env.dist": "_config",
+    "env.test": "_config",
+    "env.prod": "_config",
+    "env.production": "_config",
+    "env.local.dist": "_config",
     "static": "_config",
     "slugignore": "_config",
-    "tmp": "_clock_1",
     "htaccess": "_config",
     "key": "_lock",
     "cert": "_lock",
@@ -1806,24 +1796,20 @@
     "spec.ts": "_test_ts",
     "integration-spec.ts": "_test_ts",
     "e2e-spec.ts": "_test_ts",
-    "spec.tsx": "_test_ts"
+    "spec.tsx": "_test_ts",
+    "prettierrc": "_prettier",
+    "prettierrc.js": "_prettier",
+    "prettierrc.cjs": "_prettier",
+    "prettierrc.yaml": "_prettier",
+    "prettierrc.yml": "_prettier",
+    "prettierrc.json": "_prettier",
+    "prettierignore": "_prettier",
+    "yarnrc": "_yarn"
   },
   "fileNames": {
     "mix": "_hex",
     "karma.conf.js": "_karma",
     "karma.conf.coffee": "_karma",
-    "readme.md": "_info",
-    "readme.txt": "_info",
-    "readme": "_info",
-    "changelog.md": "_clock",
-    "changelog.txt": "_clock",
-    "changelog": "_clock",
-    "changes.md": "_clock",
-    "changes.txt": "_clock",
-    "changes": "_clock",
-    "version.md": "_clock",
-    "version.txt": "_clock",
-    "version": "_clock",
     "mvnw": "_maven",
     "swagger.json": "_json_1",
     "swagger.yml": "_json_1",
@@ -1838,7 +1824,7 @@
     "workspace": "_bazel",
     "workspace.bazel": "_bazel",
     "bower.json": "_bower",
-    "docker-healthcheck": "_docker_2",
+    "docker-healthcheck": "_docker",
     "firebase.json": "_firebase",
     "geckodriver": "_firefox",
     "gruntfile.js": "_grunt",
@@ -1851,10 +1837,10 @@
     "platformio.ini": "_platformio",
     "rollup.config.js": "_rollup",
     "sass-lint.yml": "_sass",
-    "stylelint.config.js": "_stylelint",
-    "stylelint.config.cjs": "_stylelint",
     "yarn.clean": "_yarn",
     "yarn.lock": "_yarn",
+    "yarn-audit-issues": "_yarn",
+    "yarn-audit-known-issues": "_yarn",
     "webpack.config.js": "_webpack",
     "webpack.config.cjs": "_webpack",
     "webpack.config.ts": "_webpack",
@@ -1892,11 +1878,9 @@
     "todo": "_todo",
     "todo.txt": "_todo",
     "todo.md": "_todo",
-    "npm-debug.log": "_npm_ignored",
-    "package.json": "_node_js",
-    "package-lock.json": "_node_js",
-    "tsconfig.json": "_tsconfig",
-    "tsconfig.build.json": "_tsconfig",
+    "npm-debug.log": "_npm_1",
+    "package.json": "_npm_1",
+    "package-lock.json": "_npm_1",
     "jest.json": "_jest",
     "jest-unit.json": "_jest",
     "jest-integration.json": "_jest",
@@ -1954,7 +1938,7 @@
     "typescript": "_typescript",
     "typescriptreact": "_react_ts",
     "xml": "_xml",
-    "dockercompose": "_docker_3",
+    "dockercompose": "_docker",
     "yaml": "_yml",
     "argdown": "_argdown",
     "bicep": "_bicep",
@@ -2087,8 +2071,8 @@
       "nunj": "_nunjucks_light",
       "njs": "_nunjucks_light",
       "nj": "_nunjucks_light",
-      "npm-debug.log": "_npm_light",
-      "npmignore": "_npm_1_light",
+      "npm-debug.log": "_npm_1_light",
+      "npmignore": "_npm_light",
       "npmrc": "_npm_1_light",
       "ml": "_ocaml_light",
       "mli": "_ocaml_light",
@@ -2201,17 +2185,10 @@
       "gitlab-ci.yml": "_gitlab_light",
       "jshintrc": "_javascript_2_light",
       "jscsrc": "_javascript_2_light",
-      "stylelintrc": "_stylelint_light",
-      "stylelintrc.json": "_stylelint_light",
-      "stylelintrc.yaml": "_stylelint_light",
-      "stylelintrc.yml": "_stylelint_light",
-      "stylelintrc.js": "_stylelint_light",
-      "stylelintignore": "_stylelint_1_light",
       "direnv": "_config_light",
       "env": "_config_light",
       "static": "_config_light",
       "slugignore": "_config_light",
-      "tmp": "_clock_1_light",
       "htaccess": "_config_light",
       "key": "_lock_light",
       "cert": "_lock_light",
@@ -2303,18 +2280,6 @@
       "mix": "_hex_light",
       "karma.conf.js": "_karma_light",
       "karma.conf.coffee": "_karma_light",
-      "readme.md": "_info_light",
-      "readme.txt": "_info_light",
-      "readme": "_info_light",
-      "changelog.md": "_clock_light",
-      "changelog.txt": "_clock_light",
-      "changelog": "_clock_light",
-      "changes.md": "_clock_light",
-      "changes.txt": "_clock_light",
-      "changes": "_clock_light",
-      "version.md": "_clock_light",
-      "version.txt": "_clock_light",
-      "version": "_clock_light",
       "mvnw": "_maven_light",
       "tsconfig.json": "_tsconfig_light",
       "swagger.json": "_json_1_light",
@@ -2343,8 +2308,6 @@
       "platformio.ini": "_platformio_light",
       "rollup.config.js": "_rollup_light",
       "sass-lint.yml": "_sass_light",
-      "stylelint.config.js": "_stylelint_light",
-      "stylelint.config.cjs": "_stylelint_light",
       "yarn.clean": "_yarn_light",
       "yarn.lock": "_yarn_light",
       "webpack.config.js": "_webpack_light",
