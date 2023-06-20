@@ -7,7 +7,7 @@
     "editor.background": "#010101",
     "editorWhitespace.foreground": "#e3e4e235",
     "editorGroupHeader.tabsBackground": "#010101",
-    "list.hoverBackground": "#646464",
+    "list.hoverBackground": "#646464cc",
     "list.inactiveSelectionBackground": "#2c2c2c",
     "scrollbarSlider.activeBackground": "#646464",
     "scrollbarSlider.background": "#2c2c2c",
