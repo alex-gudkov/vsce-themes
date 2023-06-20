@@ -2,8 +2,10 @@
   "name": "alex-gudkov-themes",
   "displayName": "Alex Gudkov Themes",
   "description": "Alex Gudkov themes for VS Code",
-  "keywords": [],
-  "version": "0.0.8",
+  "keywords": [
+    "theme"
+  ],
+  "version": "0.0.9",
   "engines": {
     "vscode": "*"
   },
@@ -44,5 +46,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/alex-gudkov/alex-gudkov-themes.git"
-  }
+  },
+  "publisher": "alex-gudkov"
 }
