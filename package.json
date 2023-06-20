@@ -6,7 +6,7 @@
     "theme",
     "icon"
   ],
-  "version": "0.0.13",
+  "version": "0.1.0",
   "engines": {
     "vscode": "*"
   },
@@ -29,6 +29,11 @@
         "label": "Alex Gudkov",
         "uiTheme": "vs-dark",
         "path": "./themes/alex-gudkov.json"
+      },
+      {
+        "label": "Lutik",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lutik.json"
       }
     ],
     "iconThemes": [
