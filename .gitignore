@@ -1,2 +1,5 @@
-node_modules
-*.vsix
+# dependencies 
+/node_modules
+
+# Visual Studio Extension Installer file
+/*.vsix
