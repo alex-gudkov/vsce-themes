@@ -174,11 +174,11 @@
       "fontCharacter": "\\E013",
       "fontColor": "#519aba"
     },
-    "_code-climate_light": {
+    "_code_climate_light": {
       "fontCharacter": "\\E014",
       "fontColor": "#7fae42"
     },
-    "_code-climate": {
+    "_code_climate": {
       "fontCharacter": "\\E014",
       "fontColor": "#8dc149"
     },
@@ -1542,7 +1542,7 @@
       "fontColor": "#519aba"
     },
     "_prettier": {
-      "fontCharacter": "\\E10A",
+      "fontCharacter": "\\E110",
       "fontColor": "#f6914d"
     }
   },
@@ -1741,7 +1741,7 @@
     "bazelrc": "_bazel_1",
     "bowerrc": "_bower",
     "dockerignore": "_docker",
-    "codeclimate.yml": "_code-climate",
+    "codeclimate.yml": "_code_climate",
     "eslintrc": "_eslint",
     "eslintrc.js": "_eslint",
     "eslintrc.cjs": "_eslint",
@@ -2151,7 +2151,7 @@
       "bazelrc": "_bazel_1_light",
       "bowerrc": "_bower_light",
       "dockerignore": "_docker_1_light",
-      "codeclimate.yml": "_code-climate_light",
+      "codeclimate.yml": "_code_climate_light",
       "eslintrc": "_eslint_light",
       "eslintrc.js": "_eslint_light",
       "eslintrc.cjs": "_eslint_light",
