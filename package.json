@@ -6,7 +6,7 @@
     "theme",
     "icon"
   ],
-  "version": "0.1.1",
+  "version": "0.2.0",
   "engines": {
     "vscode": "*"
   },
@@ -46,6 +46,12 @@
         "id": "alex-gudkov",
         "label": "Alex Gudkov",
         "path": "./icon-themes/alex-gudkov.json"
+      }
+    ],
+    "snippets": [
+      {
+        "language": "",
+        "path": "./snippets/snippets.code-snippets"
       }
     ]
   },
