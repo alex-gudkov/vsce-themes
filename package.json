@@ -1,6 +1,6 @@
 {
   "name": "vsce-themes",
-  "displayName": "Themes",
+  "displayName": "Alex Gudkov Themes",
   "description": "Themes extension for VS Code",
   "keywords": [
     "color",
@@ -8,7 +8,7 @@
     "alex",
     "gudkov"
   ],
-  "version": "0.4.0",
+  "version": "0.4.1",
   "icon": "icon.png",
   "engines": {
     "vscode": "*"
