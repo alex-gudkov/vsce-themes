@@ -1,5 +1,19 @@
 # Alex Gudkov Themes
 
+Required settings for _"Alex Gudkov"_ theme:
+
+```JSON
+{
+  "editor.cursorStyle": "block",
+  "editor.fontFamily": "'Ubuntu Mono', 'Cascadia Code', 'Consolas'",
+  "editor.fontLigatures": false,
+  "editor.fontSize": 14,
+  "editor.fontWeight": "bold",
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "boundary",
+}
+```
+
 Required settings for _"Lutik"_ theme:
 
 ```JSON
@@ -9,7 +23,6 @@ Required settings for _"Lutik"_ theme:
   "editor.bracketPairColorization.enabled": true,
   "editor.colorDecorators": false,
   "editor.cursorStyle": "block",
-  "editor.cursorWidth": 2,
   "editor.detectIndentation": false,
   "editor.dragAndDrop": false,
   "editor.fontFamily": "'JetBrains Mono', 'Cascadia Code', 'Consolas'",
