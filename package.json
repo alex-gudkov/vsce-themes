@@ -6,7 +6,7 @@
     "theme",
     "icon"
   ],
-  "version": "0.2.0",
+  "version": "0.3.0",
   "engines": {
     "vscode": "*"
   },
@@ -52,6 +52,16 @@
       {
         "language": "",
         "path": "./snippets/snippets.code-snippets"
+      }
+    ],
+    "keybindings": [
+      {
+        "key": "shift+alt+u",
+        "command": "editor.action.transformToUppercase"
+      },
+      {
+        "key": "shift+alt+l",
+        "command": "editor.action.transformToLowercase"
       }
     ]
   },
