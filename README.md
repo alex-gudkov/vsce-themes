@@ -1,20 +1,21 @@
 # Alex Gudkov Themes
 
-Required settings for _"Alex Gudkov"_ theme:
+### Settings for _"Alex Gudkov"_ theme:
 
 ```JSON
 {
+  "editor.cursorBlinking": "solid",
   "editor.cursorStyle": "block",
   "editor.fontFamily": "'Ubuntu Mono', 'Cascadia Code', 'Consolas'",
   "editor.fontLigatures": false,
   "editor.fontSize": 14,
   "editor.fontWeight": "bold",
   "editor.minimap.enabled": false,
-  "editor.renderWhitespace": "boundary",
+  "editor.renderWhitespace": "boundary"
 }
 ```
 
-Required settings for _"Lutik"_ theme:
+### Settings for _"Lutik"_ theme:
 
 ```JSON
 {
@@ -77,6 +78,6 @@ Required settings for _"Lutik"_ theme:
   "workbench.editor.tabSizing": "fit",
   "workbench.list.horizontalScrolling": true,
   "workbench.tree.renderIndentGuides": "none",
-  "zenMode.hideStatusBar": false,
+  "zenMode.hideStatusBar": false
 }
 ```
