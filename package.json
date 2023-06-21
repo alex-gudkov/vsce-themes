@@ -4,14 +4,20 @@
   "description": "Alex Gudkov themes for VS Code",
   "keywords": [
     "theme",
-    "icon"
+    "color-theme",
+    "icon",
+    "icon-theme",
+    "snippet",
+    "keybinding"
   ],
-  "version": "0.3.0",
+  "version": "0.3.1",
   "engines": {
     "vscode": "*"
   },
   "categories": [
-    "Themes"
+    "Themes",
+    "Snippets",
+    "Keymaps"
   ],
   "contributes": {
     "themes": [
