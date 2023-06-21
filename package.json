@@ -10,7 +10,7 @@
     "snippet",
     "keybinding"
   ],
-  "version": "0.3.2",
+  "version": "0.3.3",
   "engines": {
     "vscode": "*"
   },
@@ -19,6 +19,7 @@
     "Snippets",
     "Keymaps"
   ],
+  "license": "MIT",
   "contributes": {
     "themes": [
       {
