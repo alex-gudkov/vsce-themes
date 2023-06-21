@@ -10,7 +10,7 @@
     "snippet",
     "keybinding"
   ],
-  "version": "0.3.3",
+  "version": "0.3.4",
   "engines": {
     "vscode": "*"
   },
@@ -63,11 +63,11 @@
     ],
     "keybindings": [
       {
-        "key": "shift+alt+u",
+        "key": "alt+u",
         "command": "editor.action.transformToUppercase"
       },
       {
-        "key": "shift+alt+l",
+        "key": "alt+l",
         "command": "editor.action.transformToLowercase"
       }
     ]

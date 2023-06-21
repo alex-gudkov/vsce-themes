@@ -1,6 +1,6 @@
 # Alex Gudkov Themes
 
-### Settings for _"Alex Gudkov"_ theme:
+Settings for _"Alex Gudkov"_ theme:
 
 ```JSON
 {
@@ -15,7 +15,7 @@
 }
 ```
 
-### Settings for _"Lutik"_ theme:
+Settings for _"Lutik"_ theme:
 
 ```JSON
 {
