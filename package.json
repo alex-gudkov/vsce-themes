@@ -1,24 +1,20 @@
 {
-  "name": "alex-gudkov-themes",
-  "displayName": "Alex Gudkov Themes",
-  "description": "Alex Gudkov themes for VS Code",
+  "name": "vsce-themes",
+  "displayName": "Themes",
+  "description": "Themes extension for VS Code",
   "keywords": [
+    "color",
     "theme",
-    "icon",
-    "theme",
-    "snippet",
-    "keybinding",
-    "keymap"
+    "alex",
+    "gudkov"
   ],
-  "version": "0.3.5",
+  "version": "0.4.0",
   "icon": "icon.png",
   "engines": {
     "vscode": "*"
   },
   "categories": [
-    "Themes",
-    "Snippets",
-    "Keymaps"
+    "Themes"
   ],
   "license": "MIT",
   "contributes": {
@@ -75,7 +71,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alex-gudkov/alex-gudkov-themes.git"
+    "url": "https://github.com/alex-gudkov/vsce-themes.git"
   },
   "publisher": "alex-gudkov"
 }
