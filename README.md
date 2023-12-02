@@ -2,39 +2,34 @@
 
 Themes extension for VS Code.
 
-Settings for _"Alex Gudkov"_ theme:
+Settings for _"Alex Gudkov"_ color theme:
 
 ```JSON
 {
+  "editor.bracketPairColorization.enabled": false,
   "editor.cursorBlinking": "solid",
+  "editor.cursorStyle": "block",
+  "editor.cursorSurroundingLines": 10,
+  "editor.fastScrollSensitivity": 3,
   "editor.fontFamily": "'JetBrains Mono'",
   "editor.fontLigatures": true,
-  "editor.lineHeight": 1.2,
   "editor.fontSize": 14,
-  "editor.minimap.enabled": false,
-  "editor.renderWhitespace": "boundary",
-  "editor.cursorSurroundingLines": 10,
-  "editor.smoothScrolling": true,
-  "editor.mouseWheelScrollSensitivity": 2,
-  "editor.fastScrollSensitivity": 3,
-  "workbench.startupEditor": "none",
-  "editor.cursorStyle": "block",
-  "editor.lineNumbers": "on",
-  "editor.bracketPairColorization.enabled": false,
   "editor.fontWeight": "500",
   "editor.insertSpaces": true,
+  "editor.lineHeight": 1.2,
+  "editor.minimap.enabled": false,
+  "editor.mouseWheelScrollSensitivity": 2,
+  "editor.renderWhitespace": "boundary",
+  "editor.smoothScrolling": true,
   "editor.tabSize": 2,
-  "window.customMenuBarAltFocus": false,
-  "window.commandCenter": false,
-  "workbench.layoutControl.enabled": false,
-  "workbench.editor.showIcons": true,
   "terminal.integrated.hideOnStartup": "always",
-  "workbench.activityBar.location": "hidden",
   "window.menuBarVisibility": "hidden",
+  "workbench.activityBar.location": "hidden",
+  "workbench.startupEditor": "none",
 }
 ```
 
-Settings for _"Lutik"_ theme:
+Settings for _"Lutik"_ color theme:
 
 ```JSON
 {
