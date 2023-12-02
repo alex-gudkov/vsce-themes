@@ -3,16 +3,15 @@
   "displayName": "Alex Gudkov Themes",
   "description": "Themes extension for VS Code",
   "keywords": [
-    "color",
     "theme",
-    "alex",
-    "gudkov"
-  ],
-  "version": "0.4.2",
-  "icon": "icon.png",
+    "icon-theme"
+ ],
+  "version": "0.5.0",
+  "icon": "./icon.png",
   "engines": {
     "vscode": "*"
   },
+  "author": "Alex Gudkov",
   "categories": [
     "Themes"
   ],
@@ -50,22 +49,6 @@
         "id": "alex-gudkov",
         "label": "Alex Gudkov",
         "path": "./icon-themes/alex-gudkov.json"
-      }
-    ],
-    "snippets": [
-      {
-        "language": "",
-        "path": "./snippets/snippets.code-snippets"
-      }
-    ],
-    "keybindings": [
-      {
-        "key": "alt+u",
-        "command": "editor.action.transformToUppercase"
-      },
-      {
-        "key": "alt+l",
-        "command": "editor.action.transformToLowercase"
       }
     ]
   },

@@ -1,17 +1,36 @@
 # Alex Gudkov Themes
 
+Themes extension for VS Code.
+
 Settings for _"Alex Gudkov"_ theme:
 
 ```JSON
 {
   "editor.cursorBlinking": "solid",
-  "editor.cursorStyle": "block",
-  "editor.fontFamily": "'Ubuntu Mono', 'Cascadia Code', 'Consolas'",
-  "editor.fontLigatures": false,
+  "editor.fontFamily": "'JetBrains Mono'",
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 1.2,
   "editor.fontSize": 14,
-  "editor.fontWeight": "bold",
   "editor.minimap.enabled": false,
-  "editor.renderWhitespace": "boundary"
+  "editor.renderWhitespace": "boundary",
+  "editor.cursorSurroundingLines": 10,
+  "editor.smoothScrolling": true,
+  "editor.mouseWheelScrollSensitivity": 2,
+  "editor.fastScrollSensitivity": 3,
+  "workbench.startupEditor": "none",
+  "editor.cursorStyle": "block",
+  "editor.lineNumbers": "on",
+  "editor.bracketPairColorization.enabled": false,
+  "editor.fontWeight": "500",
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "window.customMenuBarAltFocus": false,
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.editor.showIcons": true,
+  "terminal.integrated.hideOnStartup": "always",
+  "workbench.activityBar.location": "hidden",
+  "window.menuBarVisibility": "hidden",
 }
 ```
 
